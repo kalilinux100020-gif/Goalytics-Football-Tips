@@ -8,7 +8,7 @@
         /* CSS Variables to match Android App Colors */
         :root {
             
-            --bg-card: #0D1425;
+            --bg-card: #CF161B22;
             --accent-cyan: #00E5FF;
             --accent-blue: #3D5AFE;
             --text-primary: #FFFFFF;
