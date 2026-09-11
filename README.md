@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy | Goalytics Football Tips</title>
+    <title>Privacy Policy | King of Odds</title>
     <style>
         /* CSS Variables to match Android App Colors */
         :root {
-            --bg-main: #050810;
+            
             --bg-card: #0D1425;
             --accent-cyan: #00E5FF;
             --accent-blue: #3D5AFE;
@@ -24,7 +24,6 @@
 
         body {
             font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-            background-color: var(--bg-main);
             color: var(--text-secondary);
             line-height: 1.6;
             padding: 20px;
@@ -150,7 +149,7 @@
 
 <main>
     <h2>Introduction</h2>
-    <p>Welcome to <strong>Goalytics Football Tips</strong>. We operate a "Privacy by Design" model. This document explains how we interact with data while providing professional match insights and analytical selections.</p>
+    <p>Welcome to <strong>King of Odds</strong>. We operate a "Privacy by Design" model. This document explains how we interact with data while providing professional match insights and analytical selections.</p>
 
     <h2>Data Collection & Firebase</h2>
     <p>We do not require user accounts, names, or phone numbers to function. However, our app utilizes <strong>Firebase Realtime Database</strong> to deliver live tip updates. Firebase may automatically process:</p>
@@ -171,17 +170,17 @@
     </div>
 
     <h2>Disclaimer & Risk</h2>
-    <p>The contents of Goalytics Football Tips are provided "as is." We utilize historical data and algorithmic patterns to generate selections, but we do not guarantee specific outcomes. Users acknowledge that sports tipping involves inherent uncertainty.</p>
+    <p>The contents of King of Odds are provided "as is." We utilize historical data and algorithmic patterns to generate selections, but we do not guarantee specific outcomes. Users acknowledge that sports tipping involves inherent uncertainty.</p>
 
     <h2>Contact Technical Support</h2>
     <p>For questions regarding this policy or data interaction, reach our terminal experts at:<br>
-    <a href="mailto:socceriqsport@gmail.com">socceriqsport@gmail.com</a></p>
+    <a href="mailto:tacticalsupport0@gmail.com">tacticalsupport0@gmail.com</a></p>
 
     <p style="margin-top: 40px; font-size: 0.8rem; opacity: 0.5;">Last System Update: April 2026</p>
 </main>
 
 <footer>
-    <p>&copy; 2026 GOALYTICS FOOTBALL TIPS TERMINAL. ALL RIGHTS RESERVED.</p>
+    <p>&copy; 2026 King of Odds TERMINAL. ALL RIGHTS RESERVED.</p>
 </footer>
 
 </body>
